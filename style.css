@@ -1,0 +1,49 @@
+.main {
+    background-color: black;
+    width: 800px;
+    height: 10000;
+    border: gray 20px groove;
+}
+
+h1 {
+    width: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: lightyellow;
+    margin-left: 300px;
+}
+
+body {
+    background-color: lightyellow;
+}
+
+img {
+    height: auto;
+    width: 700px;
+    border: lightyellow 20px groove;
+}
+
+p {
+    color: lightyellow;
+    font-size: 50px;
+}
+
+label {
+    color: lightyellow;
+    font-size: 30px;
+    width: 800px;
+}
+
+hr {
+    color: gray;
+    background-color: gray;
+}
+
+button {
+    background-color: lightyellow;
+    color: black;
+    height: 100px;
+    width: 200px;
+    font-size: 50px;
+    align-self: auto;
+    animation-name: ris();
+}
