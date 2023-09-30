@@ -1,0 +1,109 @@
+.a1 {
+    margin-left: 165px;
+    color: var(--colour-main-blue-500, #505F98);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.a2 {
+    margin-left: 20px;
+    color: var(--colour-main-blue-500, #505F98);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.a3 {
+    margin-left: 20px;
+    color: var(--colour-main-blue-500, #505F98);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.a4 {
+    margin-left: 271px;
+    color: var(--colour-logo-primary, #37447E);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 38px;
+}
+
+.b1 {
+    margin-left: 339px;
+    background-color: #37447E;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    width: 180px;
+    height: 26px;
+    color: white;
+}
+
+.t1 {
+    width: 539px;
+    font-size: 50px;
+    font-family: Roboto;
+    font-weight: 500;
+    margin-top: 325px;
+    margin-left: 97.12px;
+    font-feature-settings: 'clig' off, 'liga' off;
+}
+
+.t2 {
+    width: 539px;
+    height: 164px;
+    margin-left: 97.12px;
+}
+
+.i1 {
+    background: url("image 1.png");
+    width: 628px;
+    height: 573px;
+    float: right;
+    margin-top: 200px;
+    margin-right: 500px;
+}
+
+.b2 {
+    background-color: rgb(14, 14, 59);
+    width: 189px;
+    height: 39px;
+    text-align: center;
+    padding-top: 13px;
+    color: white;
+    border: none;
+    margin-left: 97.12px;
+    margin-top: 10px;
+    padding-top: 15px;
+}
+
+.b3 {
+    border: black 2px solid;
+    color: black;
+    text-align: center;
+    width: 209px;
+    height: 30px;
+    float: right;
+    padding-top: 15px;
+    margin-right: 1150px;
+    margin-top: -120px;
+    margin-bottom: 20px;
+}
+
+body {
+    margin-left: 200px;
+}
